@@ -2,7 +2,7 @@ Origin: Mojo's Repo
 Label: Mojo's Repo
 Suite: stable
 Version: 0.1
-Codename: ios
+Codename: stable
 Architectures: iphoneos-arm
 Components: main
 Description: Mojo's Repo
