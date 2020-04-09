@@ -1,0 +1,74 @@
+Package: fun.mojoxd.lines
+Name: Lines
+Version: 0.1
+Architecture: iphoneos-arm
+Description: A modern and minimalist widget!
+Maintainer: MojoXD <mrs.mojo@mojorepo.fun>
+Author: MojoXD <mrs.mojo@mojorepo.fun>
+Section: Widgets
+Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
+Filename: debs/fun.mojoxd.lines_0.1_iphoneos-arm.deb
+Size: 182522
+MD5sum: 37528f0a8b35fbdc6b16aec6256e6922
+SHA1: 6e180b597d70f30fee386864966dcb1d60142143
+SHA256: 47d9675e21127d4ecbd7380d2f777e91be2837e14db570171a0bbefb30708e20
+
+Package: fun.mojoxd.lines
+Name: Lines
+Version: 0.2
+Architecture: iphoneos-arm
+Description: A modern and minimalist widget!
+Maintainer: MojoXD <mrs.mojo@mojorepo.fun>
+Author: MojoXD <mrs.mojo@mojorepo.fun>
+Section: Widgets
+Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
+Filename: debs/LinesDeb0.2.deb
+Size: 125732
+MD5sum: 50206d6c811614ccd66e780c18dbb823 
+SHA1: 67a4f88428ad5310db807cc6e92f60acbf0b3541
+SHA256: a77174e8130ca228bce5009de770648a79fedee9a2a63c415a202beb3690dc7b
+
+Package: fun.mojoxd.oswaldbeta
+Name: OswaldBeta
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Modern widget inspired by Discord. Currently in "beta" as not all weather states are functioning :/ sry.
+Maintainer: MojoXD <mrs.mojo@mojorepo.fun>
+Author: MojoXD <mrs.mojo@mojorepo.fun>
+Section: Widgets
+Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
+Filename: debs/OswaldBeta0.1.deb
+Size: 412912 
+MD5sum: a0c811196bd195c3dfb8b3475d90be30
+SHA1: 205cb9c8b78352128f78dcc0739949dbaf57e0c7
+SHA256: c0e9abf867131cd168ef7282eec78274045a7ce6aa23b70c727f80d122b02729
+
+Package: fun.mojoxd.prettyp1nk
+Name: PrettyInP1nk
+Version: 0.1
+Architecture: iphoneos-arm
+Description: A minimalist LS widget with a nice pink pop.
+Maintainer: MojoXD <mrs.mojo@mojorepo.fun>
+Author: MojoXD <mrs.mojo@mojorepo.fun>
+Section: Widgets
+Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
+Filename: debs/PrettyInP1nk0.1.deb
+Size: 46768
+MD5sum: 525d05d8a92e40096e86ed9a9f228ee4
+SHA1: a242ddb2e001d244c8566ffe11bf059c4605029e
+SHA256: 9ec2bf171e510691c75714de132fe4aaab9ba31bf4997583ec3aeb409fbcb43e
+
+Package: fun.mojoxd.airpodspropreset
+Name: (EQE) AirPods Pro Preset
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Gives AirPods that bassy sound like Powerbeats 3 or Powerbeats pro
+Maintainer: MojoXD <mrs.mojo@mojorepo.fun>
+Author: BackFromTheDead
+Section: EQE Presets
+Depends: com.r333d.eqe
+Filename: debs/AirpodsPro.deb
+Size: 1240
+MD5sum: b62193dc61bad3e51efb6a707d56672b
+SHA1: b182cfb6e5280cd70e0a8ff214655abe32dd7d74
+SHA256: e4b608003db75c0b5b07b0da5bda926427128824c957bf490654d5c65ca8d8fe
