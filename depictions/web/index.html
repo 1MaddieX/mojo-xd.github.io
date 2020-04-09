@@ -151,9 +151,35 @@
         }); //ajax
 
     }); // ready
+
+    //screenshot grabber
+    var contentBlocksS = 	{
+        "#screenshotsList"	:
+      {"type":"custom"
+        ,"source" :"package>screenshots>screenshot"
+        ,"render" : function(element,source){
+        console.log($(source).size());
+          if ($(source).size()==0) {
+            $(element).append( $("<div class='alert alert-danger'>There aren't any screenshots for this package</div>") );
+            return;
+          }
+          $.each(source, function(index,data) {
+            var th = $("<div class='thumbnail'>");
+            th.append($("<p>")
+              .text($(data).find('description').text())
+            )
+            th.append($("<img>")
+              .attr("src",bundleid+'/screenshots/'+$(data).find('image').text())
+            )
+            $(element).append(th);
+          });
+
+        }
+      }
+  }
   </script>
 
-  
+
 </head>
 <body>
 <br />
