@@ -1,4 +1,4 @@
-function data_loader_engine(contentBlocks,contentBlocksS,xml) {
+function data_loader_engine(contentBlocks,xml) {
 
 	/* Loop through each if the contentBlocks */
 	$.each(contentBlocks, function (key,contentInfo){
