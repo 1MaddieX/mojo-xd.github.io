@@ -169,11 +169,9 @@
               .text($(data).find('description').text())
             )
             th.append($("<img>")
-							.attr("src",bundleid+'/screenshots/'+$(data).find('image').text())
+							.attr({"src":"bundleid+'/screenshots/'+$(data).find('image').text()"})
 						)
-            th.append($("<img>")
-            .attr("id",sc-container)
-          )
+
             $(element).append(th);
           });
 
