@@ -1,0 +1,38 @@
+<package>
+	<id>fun.mojoxd.lines</id>
+	<name>Lines</name>
+	<version>0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>XenHTML</package>
+		<package>XenInfo</package>
+	</dependencies>
+	<shortDescription>A modern and minimalist widget!</shortDescription>
+	<descriptionlist>
+		<description>This widget gives you loads of info in a very minimal format.</description>
+		<description>It's based off of some KLWP theme I found on r/androidthemes a while back,
+		but I can't seem to find the theme to give credit. Sry folks... :/</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Lines in action1</description>
+			<image>lines1.png</image>
+		</screenshot>
+			</screenshots>
+	<changelog>
+		<change>0.2</change>
+		<change>Tidied up some stuff</change>
+	</changelog>
+	<links>
+		<link>
+			<name>My Twitter</name>
+			<url>#</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>
