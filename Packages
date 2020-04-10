@@ -72,3 +72,18 @@ Size: 1240
 MD5sum: b62193dc61bad3e51efb6a707d56672b
 SHA1: b182cfb6e5280cd70e0a8ff214655abe32dd7d74
 SHA256: e4b608003db75c0b5b07b0da5bda926427128824c957bf490654d5c65ca8d8fe
+
+Package: fun.mojoxd.midnight
+Name: (EQE) Midnight Preset
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A preset for that slow, sad, midnight feeling.
+Maintainer: MojoXD <mrs.mojo@mojorepo.fun>
+Author: MojoXD <mrs.mojo@mojorepo.fun>
+Section: EQE Presets
+Depends: com.r333d.eqe
+Filename: debs/Midnight1.0.deb
+Size: 1116
+MD5sum: 5ec2eeb0081ee29e93c0a815329cb1e1
+SHA1: 8bcfbd90ede2cf600681e778cbd5380a2a980d80
+SHA256: a489a03aeee52a1e987ee73f0ae4ac51077b097d61721ff8fe990e86e9918c1b
