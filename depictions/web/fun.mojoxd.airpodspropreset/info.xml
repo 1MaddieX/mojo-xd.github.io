@@ -1,6 +1,6 @@
 <package>
-	<id>com.sukarodo.samplepackage</id>
-	<name>Sample Package</name>
+	<id>fun.mojoxd.airpodspropreset</id>
+	<name>(EQE) AirPods Pro Preset</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -9,37 +9,30 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+		<package>EQE</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>An EQE that will revamp your AirPods Pro!</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description>ives AirPods that bassy sound like Powerbeats 3 or Powerbeats pro.</description>
+
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
+			<description> </description>
+			<image> </image>
+		</screenshot>
+
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Initial Release</change>
+		<change>Added preset to repo!</change>
+
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>EQE Discord</name>
+			<url>https://discord.gg/RSJWAuX</url>
+			<iconclass>fa fa-discord</iconclass>
 		</link>
 	</links>
 </package>
