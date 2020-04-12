@@ -56,8 +56,8 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
   border: none;
 }
 
-.list-group-item{
-  list-style-type: circle;
+li .list-group-item{
+  list-style-type: decimal;
   border: none;
   box-sizing: none;
   padding-top: 3px;
