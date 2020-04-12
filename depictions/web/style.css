@@ -53,9 +53,9 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
   box-sizing: none;
 }
 
-.thumbnail {
+.screenshot-holder {
   border: none;
-  margin: 0px;
+  margin-top: 20px;
 }
 
 li {
