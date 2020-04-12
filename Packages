@@ -7,11 +7,11 @@ Maintainer: MojoXD <mrs.mojo@mojorepo.fun>
 Author: MojoXD <mrs.mojo@mojorepo.fun>
 Section: Widgets
 Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
-Filename: debs/fun.mojoxd.lines_0.1_iphoneos-arm.deb
-Size: 182522
-MD5sum: 37528f0a8b35fbdc6b16aec6256e6922
-SHA1: 6e180b597d70f30fee386864966dcb1d60142143
-SHA256: 47d9675e21127d4ecbd7380d2f777e91be2837e14db570171a0bbefb30708e20
+Filename: debs/LinesDeb0.1.deb
+Size: 125800
+MD5sum: c62716187da695fe8e799cc9cf8ccf66
+SHA1: d099db4204df23ba988ae51c1c864f8ae6a240ab
+SHA256: d35414b4fb2ed832efa701ac042f8173c4166ed79b2c131c6a51bd5687db30c7
 
 Package: fun.mojoxd.lines
 Name: Lines
@@ -23,10 +23,10 @@ Author: MojoXD <mrs.mojo@mojorepo.fun>
 Section: Widgets
 Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
 Filename: debs/LinesDeb0.2.deb
-Size: 125732
-MD5sum: 50206d6c811614ccd66e780c18dbb823 
-SHA1: 67a4f88428ad5310db807cc6e92f60acbf0b3541
-SHA256: a77174e8130ca228bce5009de770648a79fedee9a2a63c415a202beb3690dc7b
+Size: 125792
+MD5sum: 88ee98d708da1c5cf6d1c24c854a3c58
+SHA1: 4ba4e3630375d9c81463acacdb8335780192456d
+SHA256: 9364b304a9d01ce0a55552c9ffb648b6ed4a5e6d8f9c239037da87522956d653
 
 Package: fun.mojoxd.oswaldbeta
 Name: OswaldBeta
@@ -38,10 +38,10 @@ Author: MojoXD <mrs.mojo@mojorepo.fun>
 Section: Widgets
 Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
 Filename: debs/OswaldBeta0.1.deb
-Size: 412912 
-MD5sum: a0c811196bd195c3dfb8b3475d90be30
-SHA1: 205cb9c8b78352128f78dcc0739949dbaf57e0c7
-SHA256: c0e9abf867131cd168ef7282eec78274045a7ce6aa23b70c727f80d122b02729
+Size: 412972
+MD5sum: 88ee98d708da1c5cf6d1c24c854a3c58
+SHA1: 4ba4e3630375d9c81463acacdb8335780192456d
+SHA256: 9364b304a9d01ce0a55552c9ffb648b6ed4a5e6d8f9c239037da87522956d653
 
 Package: fun.mojoxd.prettyp1nk
 Name: PrettyInP1nk
@@ -53,10 +53,10 @@ Author: MojoXD <mrs.mojo@mojorepo.fun>
 Section: Widgets
 Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
 Filename: debs/PrettyInP1nk0.1.deb
-Size: 46768
-MD5sum: 525d05d8a92e40096e86ed9a9f228ee4
-SHA1: a242ddb2e001d244c8566ffe11bf059c4605029e
-SHA256: 9ec2bf171e510691c75714de132fe4aaab9ba31bf4997583ec3aeb409fbcb43e
+Size: 46832
+MD5sum: e981b412ac274712acc3d93e26da0970
+SHA1: 4c76e3d2637132c04ade806f7fe1aad9a8a51cf1
+SHA256: dfe8c2efe2d62bf2929909055b934f35dc6ef63fdcad9937d6d93c90647150bb
 
 Package: fun.mojoxd.airpodspropreset
 Name: (EQE) AirPods Pro Preset
@@ -67,11 +67,11 @@ Maintainer: MojoXD <mrs.mojo@mojorepo.fun>
 Author: BackFromTheDead
 Section: EQE Presets
 Depends: com.r333d.eqe
-Filename: debs/AirpodsPro.deb
-Size: 1240
-MD5sum: b62193dc61bad3e51efb6a707d56672b
-SHA1: b182cfb6e5280cd70e0a8ff214655abe32dd7d74
-SHA256: e4b608003db75c0b5b07b0da5bda926427128824c957bf490654d5c65ca8d8fe
+Filename: debs/AirpodsPro1.0.deb
+Size: 1300
+MD5sum: 08a783d97da5d4ec4bc28013992a0301
+SHA1: af40d562654da3fe767995be7c286194742c0772
+SHA256: 4bdc428d4ee5bc0adf74b291605b62dcd1ce449d7cbf0d88a451c993acfe768a
 
 Package: fun.mojoxd.midnight
 Name: (EQE) Midnight Preset
@@ -84,6 +84,21 @@ Section: EQE Presets
 Depends: com.r333d.eqe
 Filename: debs/Midnight1.0.deb
 Size: 1116
-MD5sum: 5ec2eeb0081ee29e93c0a815329cb1e1
-SHA1: 8bcfbd90ede2cf600681e778cbd5380a2a980d80
-SHA256: a489a03aeee52a1e987ee73f0ae4ac51077b097d61721ff8fe990e86e9918c1b
+MD5sum: b9867a580abb97c546e987ea134da66f
+SHA1: b901cd719dd75e60a0ae73599193151afe57c4b6
+SHA256: 58aa528235c36a9663d6249eac9633bcb64d1e4cbd1047df4cb35253bfe23076
+
+Package: fun.mojoxd.mellowish
+Name: (EQE) Mellow-ish Preset
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A mellow preset, for that kinda sad feeling. More bass and level, rich highs and mids.
+Maintainer: MojoXD <mrs.mojo@mojorepo.fun>
+Author: MojoXD <mrs.mojo@mojorepo.fun>
+Section: EQE Presets
+Depends: com.r333d.eqe
+Filename: debs/Mellow-ish1.0.deb
+Size: 1140
+MD5sum: 1b64969b3c09fbe04e7abe90c9e690a9
+SHA1: faab646d58ee0275181a8a85ab11c76031e3972e
+SHA256: ce6377caa2f65b5be2e031ca177b7fba2149f11555d05b945828f7ce93397b6b
