@@ -45,8 +45,11 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 }
 
 .list-group-item{
+  list-style-type: circle;
   border: none;
   box-sizing: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
 
 .depictionspacer {
