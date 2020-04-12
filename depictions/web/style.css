@@ -55,6 +55,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 
 .thumbnail {
   border: none;
+  margin-left: -50px;
 }
 
 li {
@@ -73,6 +74,8 @@ li {
   /* border: 3px solid gray;
   border-radius: 5px; */
 }
+
+
 
 .mainlist-item {
   list-style-type: disc;
