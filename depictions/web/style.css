@@ -40,6 +40,15 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
  /* General Styles */
 
 .list-group{
-  border: none;
-  
+  border: 0px solid black;
+
+}
+
+.depictionspacer {
+  margin-left: 25px;
+  margin-right: 25px;
+  width: auto;
+  height: 9px;
+  border: 3px solid #333;
+  border-radius: 6px;
 }
