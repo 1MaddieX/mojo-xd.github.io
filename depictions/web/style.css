@@ -52,7 +52,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
   box-sizing: none;
 }
 
-#screenshotsList {
+.thumbnail {
   border: none;
 }
 
@@ -60,8 +60,8 @@ li .list-group-item{
   list-style-type: decimal;
   border: none;
   box-sizing: none;
-  padding-top: 3px;
-  padding-bottom: 3px;
+  padding-top: 1px;
+  padding-bottom: 1px;
 }
 
 .depictionspacer {
