@@ -58,7 +58,7 @@
         ,"#descriptionList"	:
 			{"type":"list"
 				,"source" :"package>descriptionlist>description"
-				,"paragraphElement"	: "<li class=''>"
+				,"paragraphElement"	: "<li class='mainlist-item'>"
 				,"emptyListCallback":function(e){$("#descriptionPanel").hide()}
 			}
         ,"#screenshotsLink"	:
@@ -82,7 +82,7 @@
 			{"type":"list"
 				,"source" :"package>changelog>change"
 				,"reverseRender"    : true
-				,"paragraphElement"	: "<li class=''>"
+				,"paragraphElement"	: "<li class='mainlist-item'>"
 				,"emptyListCallback":function(e){$("#changesList").hide()}
 			}
 		,"#changelogLink" :
@@ -95,7 +95,7 @@
                     }
                     // create changelog link
                     $("#changesList").append(
-                        $("<a class='link-item'>")
+                        $("<a class='link-item mainlist-item'>")
                             .attr("href","changelog.html?p="+bundleid)
                             .text("Full Changelog")
                     );
@@ -104,20 +104,20 @@
 		,"#dependencyList" :
 			{"type":"list"
 				,"source" :"package>dependencies>package"
-				,"paragraphElement"	: "<li class=''>"
+				,"paragraphElement"	: "<li class='mainlist-item'>"
 				,"emptyListCallback":function(e){$("#dependenciesContainer").remove()}
 			}
 		,"#externalLinksList" :
 			{"type":"custom"
 				,"source" :"package>links>link"
-				,"paragraphElement"	: "<li class=''>"
+				,"paragraphElement"	: "<li class='mainlist-item'>"
 				,"render":function(element,source){
 					if ($(source).size()==0){
 						$('#externalLinksContainer').remove()
 					}
 
                     $.each(source, function(index,data) {
-                        var a = $("<a class='link-item'>");
+                        var a = $("<a class='link-item mainlist-item'>");
                         a.attr("href",$(data).find('url').text());
                         if ($(data).find('iconclass')) {
                             var i =  $("<span>")
@@ -204,28 +204,28 @@
 
 	<div class="container">
 		<h5>DESCRIPTION</h5>
-		<ul id="descriptionList" class="">
+		<ul id="descriptionList" class="mainlist">
 		</ul>
-    <ul id="screenshotsList" class=""></ul>  <!--screenshots-->
+    <ul id="screenshotsList" class="mainlist"></ul>  <!--screenshots-->
 	</div>
 
 
 
 	<div class="container">
 		<h5>IN THIS VERSION <span id="versionBadge" class="badge" /></h5>
-		<ul id="changesList" class="">
+		<ul id="changesList" class="mainlist">
 			<li id="changelogLink" />
 		</ul>
 	</div>
 	<div class="container" id="dependenciesContainer">
 		<h5>DEPENDENCIES</h5>
-		<ul id="dependencyList" class="">
+		<ul id="dependencyList" class="mainlist">
 		</ul>
 	</div>
 
 	<div class="container" id="externalLinksContainer">
 		<h5>LINKS</h5>
-		<ul id="externalLinksList" class="">
+		<ul id="externalLinksList" class="mainlist">
 		</ul>
 	</div>
 
@@ -288,7 +288,7 @@
 <div id="contactInfo">
 	<div class="container">
 		<h5>CONTACT</h5>
-		<ul class="" id="repoFooterLinks">
+		<ul class="mainlist" id="repoFooterLinks">
 		</ul>
 	</div>
 </div>
