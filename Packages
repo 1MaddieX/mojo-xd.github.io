@@ -12,6 +12,8 @@ Size: 125800
 MD5sum: c62716187da695fe8e799cc9cf8ccf66
 SHA1: d099db4204df23ba988ae51c1c864f8ae6a240ab
 SHA256: d35414b4fb2ed832efa701ac042f8173c4166ed79b2c131c6a51bd5687db30c7
+Depiction: https://mojorepo.fun/depictions/web/?p=fun.mojoxd.lines
+SileoDepiction: https://mojorepo.fun/depictions/native/fun.mojoxd.lines/depiction.json/
 
 Package: fun.mojoxd.lines
 Name: Lines
@@ -27,6 +29,8 @@ Size: 125792
 MD5sum: 88ee98d708da1c5cf6d1c24c854a3c58
 SHA1: 4ba4e3630375d9c81463acacdb8335780192456d
 SHA256: 9364b304a9d01ce0a55552c9ffb648b6ed4a5e6d8f9c239037da87522956d653
+Depiction: https://mojorepo.fun/depictions/web/?p=fun.mojoxd.lines
+SileoDepiction: https://mojorepo.fun/depictions/native/fun.mojoxd.lines/depiction.json/
 
 Package: fun.mojoxd.oswaldbeta
 Name: OswaldBeta
@@ -42,6 +46,8 @@ Size: 412972
 MD5sum: 88ee98d708da1c5cf6d1c24c854a3c58
 SHA1: 4ba4e3630375d9c81463acacdb8335780192456d
 SHA256: 9364b304a9d01ce0a55552c9ffb648b6ed4a5e6d8f9c239037da87522956d653
+Depiction: https://mojorepo.fun/depictions/web/?p=fun.mojoxd.oswaldbeta
+SileoDepiction: https://mojorepo.fun/depictions/native/fun.mojoxd.oswaldbeta/depiction.json
 
 Package: fun.mojoxd.prettyp1nk
 Name: PrettyInP1nk
@@ -57,6 +63,8 @@ Size: 46832
 MD5sum: e981b412ac274712acc3d93e26da0970
 SHA1: 4c76e3d2637132c04ade806f7fe1aad9a8a51cf1
 SHA256: dfe8c2efe2d62bf2929909055b934f35dc6ef63fdcad9937d6d93c90647150bb
+Depiction: https://mojorepo.fun/depictions/web/?p=fun.mojoxd.prettyp1nk
+SileoDepiction: https://mojorepo.fun/depictions/native/fun.mojoxd.prettyp1nk/depiction.json
 
 Package: fun.mojoxd.airpodspropreset
 Name: (EQE) AirPods Pro Preset
@@ -72,6 +80,8 @@ Size: 1300
 MD5sum: 08a783d97da5d4ec4bc28013992a0301
 SHA1: af40d562654da3fe767995be7c286194742c0772
 SHA256: 4bdc428d4ee5bc0adf74b291605b62dcd1ce449d7cbf0d88a451c993acfe768a
+Depiction: https://mojorepo.fun/depictions/web/?p=fun.mojoxd.airpodspropreset
+SileoDepiction: https://mojorepo.fun/depictions/native/fun.mojoxd.airpodspropreset/depiction.json
 
 Package: fun.mojoxd.midnight
 Name: (EQE) Midnight Preset
@@ -87,6 +97,8 @@ Size: 1116
 MD5sum: b9867a580abb97c546e987ea134da66f
 SHA1: b901cd719dd75e60a0ae73599193151afe57c4b6
 SHA256: 58aa528235c36a9663d6249eac9633bcb64d1e4cbd1047df4cb35253bfe23076
+Depiction: https://mojorepo.fun/depictions/web/?p=fun.mojoxd.midnight
+SileoDepiction: https://mojorepo.fun/depictions/native/fun.mojoxd.midnight/depiction.json
 
 Package: fun.mojoxd.mellowish
 Name: (EQE) Mellow-ish Preset
@@ -102,3 +114,5 @@ Size: 1140
 MD5sum: 1b64969b3c09fbe04e7abe90c9e690a9
 SHA1: faab646d58ee0275181a8a85ab11c76031e3972e
 SHA256: ce6377caa2f65b5be2e031ca177b7fba2149f11555d05b945828f7ce93397b6b
+Depiction: https://mojorepo.fun/depictions/web/?p=fun.mojoxd.mellowish
+SileoDepiction: https://mojorepo.fun/depictions/native/fun.mojoxd.mellowish/depiction.json
