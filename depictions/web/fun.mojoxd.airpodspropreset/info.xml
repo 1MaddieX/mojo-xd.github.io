@@ -16,13 +16,7 @@
 		<description>Gives AirPods that bassy sound like Powerbeats 3 or Powerbeats pro.</description>
 
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description> </description>
-			<image> </image>
-		</screenshot>
-
-	</screenshots>
+	
 	<changelog>
 		<change>Initial Release</change>
 		<change>Added preset to repo!</change>
