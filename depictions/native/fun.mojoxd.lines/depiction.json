@@ -19,30 +19,34 @@
 				},
 				{
 					"title": "Version",
-					"text": "0.2",
+					"text": "VERSION_NUMBER",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "4/9/2020",
+					"text": "RELEASE_DATE",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Price",
-					"text": "Free",
+					"text": "PRICE",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "MojoXD",
+					"text": "DEVELOPER_NAME",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Website",
-					"action": "https://mojorepo.fun",
+					"action": "WEBSITE_HERE",
 					"class": "DepictionTableButtonView"
 				},
-
+				{
+					"title": "Use This Template",
+					"action": "https://github.com/sukarodo/Sidia",
+					"class": "DepictionTableButtonView"
+				},
 				{
 					"spacing": 16,
 					"class": "DepictionSpacerView"
@@ -58,7 +62,7 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "0.2",
+					"title": "VERSION_NUMBER",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
