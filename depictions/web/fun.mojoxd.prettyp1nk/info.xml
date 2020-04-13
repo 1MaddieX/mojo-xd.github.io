@@ -1,45 +1,36 @@
 <package>
-	<id>com.sukarodo.samplepackage</id>
-	<name>Sample Package</name>
-	<version>1.0</version>
+	<id>fun.mojoxd.prettyp1nk</id>
+	<name>PrettyInP1nk</name>
+	<version>0.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>9.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+		<package>XenHTML</package>
+		<package>XenInfo</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>A minimalist LS widget with a nice pink pop</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description>Pretty In P1nk is a fullscreen LS widget that stands waay out with it's bright color shades.</description>
+		<description>It's hella minimal and clean, yet it looks very full (yes, I'm a poet now 😂).</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
+			<description></description>
+			<image>prettyp1nk1.png</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Initial release</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>My Twitter</name>
+			<url>#</url>
+			<iconclass>fa fa-twitter</iconclass>
 		</link>
 	</links>
 </package>
