@@ -12,8 +12,6 @@ Size: 125800
 MD5sum: c62716187da695fe8e799cc9cf8ccf66
 SHA1: d099db4204df23ba988ae51c1c864f8ae6a240ab
 SHA256: d35414b4fb2ed832efa701ac042f8173c4166ed79b2c131c6a51bd5687db30c7
-Depiction: https://mojorepo.fun/depictions/web/?p=fun.mojoxd.lines
-SileoDepiction: https://mojorepo.fun/depictions/native/fun.mojoxd.lines/depiction.json/
 
 Package: fun.mojoxd.lines
 Name: Lines
