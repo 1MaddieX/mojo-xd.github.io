@@ -1,3 +1,6 @@
+<hasdepiction>
+	<bool>no</bool>
+</hasdepiction>
 <package>
 	<id>fun.mojoxd.airpodspropreset</id>
 	<name>(EQE) AirPods Pro Preset</name>
@@ -16,7 +19,7 @@
 		<description>Gives AirPods that bassy sound like Powerbeats 3 or Powerbeats pro.</description>
 
 	</descriptionlist>
-	
+
 	<changelog>
 		<change>Initial Release</change>
 		<change>Added preset to repo!</change>
