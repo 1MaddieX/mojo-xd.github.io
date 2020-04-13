@@ -30,7 +30,7 @@
 		<link>
 			<name>DiscordApp</name>
 			<url>https://discordapp.com/</url>
-			<iconclass>fa fa-discord</iconclass>
+			<iconclass>fab fa-discord</iconclass>
 		</link>
 	</links>
 </package>
