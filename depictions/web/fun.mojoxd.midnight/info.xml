@@ -1,6 +1,6 @@
 <package>
-	<id>fun.mojoxd.airpodspropreset</id>
-	<name>(EQE) AirPods Pro Preset</name>
+	<id>fun.mojoxd.midnight</id>
+	<name>(EQE) Midnight Preset</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -11,15 +11,12 @@
 		<package>mobilesubstrate</package>
 		<package>EQE</package>
 	</dependencies>
-	<shortDescription>An EQE that will revamp your AirPods Pro!</shortDescription>
+	<shortDescription>A preset for that slow, sad, midnight feeling.</shortDescription>
 	<descriptionlist>
-		<description>Gives AirPods that bassy sound like Powerbeats 3 or Powerbeats pro.</description>
+		<description>This preset features enhanced mids with level highs and rich bass, perfect for a midnigh jam sesh.</description>
 	</descriptionlist>
-
 	<changelog>
 		<change>Initial Release</change>
-		<change>Added preset to repo!</change>
-
 	</changelog>
 	<links>
 		<link>
