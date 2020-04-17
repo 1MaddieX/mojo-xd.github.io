@@ -28,7 +28,7 @@ MD5sum: 88ee98d708da1c5cf6d1c24c854a3c58
 SHA1: 4ba4e3630375d9c81463acacdb8335780192456d
 SHA256: 9364b304a9d01ce0a55552c9ffb648b6ed4a5e6d8f9c239037da87522956d653
 Depiction: https://mojorepo.fun/depictions/web/?p=fun.mojoxd.lines
-SileoDepiction: https://mojorepo.fun/depictions/native/fun.mojoxd.lines/depiction.json/
+SileoDepiction: https://mojorepo.fun/depictions/native/fun.mojoxd.lines/depiction.json
 
 Package: fun.mojoxd.oswaldbeta
 Name: OswaldBeta
