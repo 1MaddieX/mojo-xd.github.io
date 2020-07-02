@@ -1,0 +1,28 @@
+<package>
+	<id>fun.mojoxd.midnight</id>
+	<name>(EQE) Pop-ify Preset</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>EQE</package>
+	</dependencies>
+	<shortDescription>A revamped preset for chill pop music!<shortDescription>
+	<descriptionlist>
+		<description>Its got good vocal balance and rich mids!</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>EQE Discord</name>
+			<url>https://discord.gg/RSJWAuX</url>
+			<iconclass>fa fa-discord</iconclass>
+		</link>
+	</links>
+</package>

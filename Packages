@@ -114,3 +114,20 @@ SHA1: faab646d58ee0275181a8a85ab11c76031e3972e
 SHA256: ce6377caa2f65b5be2e031ca177b7fba2149f11555d05b945828f7ce93397b6b
 Depiction: https://mojorepo.fun/depictions/web/?p=fun.mojoxd.mellowish
 SileoDepiction: https://mojorepo.fun/depictions/native/fun.mojoxd.mellowish/depiction.json
+
+Package: fun.mojoxd.popify
+Name: (EQE) Pop-ify Preset
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A preset built for chill pop music!
+Author: MojoXD
+Maintainer: MojoXD
+Section: EQE Presets
+Depends: com.r333d.eqe
+Filename: debs/popify.deb
+Size: 1032
+MD5sum: 0af381de9a86662d669a3197e829d8bf
+SHA1: 2e5c4f2ea44fe13e5355eeacc0dec6a8d6c83365
+SHA256: 7a860bf66e16afa142512b04b655a1445f2f41eac19bf6b49f3d10c53bd8ec11
+Depiction: https://mojorepo.fun/depictions/web/?p=fun.mojoxd.popify
+SileoDepiction: https://mojorepo.fun/depictions/native/fun.mojoxd.popify/depiction.json
